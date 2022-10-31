@@ -1,0 +1,38 @@
+span {
+    display: inline-block;
+}
+
+.cutecat{
+    height: 300px;
+}
+
+.smallanimals{
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    text-align: center;
+    background-color: lightgreen;
+}
+
+#pic{
+    font-size: 50px;
+    font-family: Papyrus;
+}
+
+strong{
+    font-family: Papyrus;
+}
+
+p{
+    font-family: Papyrus;
+}
+
+a{
+    font-family: Papyrus;
+}
+
+.dot{
+    color: lightgreen;
+}
